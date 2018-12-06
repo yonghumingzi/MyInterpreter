@@ -1,0 +1,3 @@
+FOR T FROM 0 TO 5 STEP 20 DRAW (T+1,-T);
+FOR T FROM -5 TO 0 STEP 30 DRAW (T-1,T);
+For t from -2 to 3 step 50 draw (t,cos(t));
